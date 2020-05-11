@@ -1,0 +1,1 @@
+sklearn library helps in spliting test and train data and also to apply models.
